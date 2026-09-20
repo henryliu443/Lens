@@ -104,3 +104,7 @@ xcodebuild -project com.lens/com.lens.xcodeproj -scheme com.lens \
 - No chat/conversational interaction — only "one input → structured analysis"
 - No Android / cross-platform / shared layer
 - No mental-health, emotion, or crisis-intervention content
+
+## License
+
+Apache-2.0. See `LICENSE`.
