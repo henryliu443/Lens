@@ -104,3 +104,7 @@ xcodebuild -project com.lens/com.lens.xcodeproj -scheme com.lens \
 - 不做聊天/对话式交互，只做「一次输入 → 结构化分析」
 - 不做 Android / 跨平台 / 共享层
 - 不做心理健康、情绪、危机干预相关内容
+
+## 许可证 / License
+
+Apache-2.0. 详见 `LICENSE` / See `LICENSE`.
